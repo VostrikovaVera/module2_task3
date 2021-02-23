@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aDkXa3kHGLw6ZX7QnV8Q3jOoBnNpfNbuLlzMprwRXjgsLjxE38UHAfB4sZZjFnog2bkYJnryM2dVXwTtD7uCrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vira\\learning\\C# .NET\\test\\module2_task3\\Module2_Task3\\Module2_Task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vira\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
